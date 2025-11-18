@@ -17,4 +17,5 @@ def Vertices(d):
         print("The number of dimensions can't go below 0!")
         return None
     calc = 2 ** d
+
     return calc
